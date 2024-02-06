@@ -10,7 +10,7 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:jayasrirangaramanujam@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Her) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jayasri_ar/)
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jayasrirangaramanujam@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Her) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jayasri_ar/)
 - 😄 Pronouns: Techie
 
 
