@@ -6,7 +6,7 @@ Junior web developer Intern @ NanLogical Consultancy Pvt Lmt.
 - 🔭 Here's my [portfolio](https://jayasriar.github.io/Portfolio/)                                                
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about **MERN, Python, Web Development** 
+- 💬 Ask me about **MERN, Python, Web Development**  <br/>
 - 📫 Reach me out :
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jayasrirangaramanujam@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here)  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/jayasri-a-r/)
 - 😄 Pronouns: Techie
