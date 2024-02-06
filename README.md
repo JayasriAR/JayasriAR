@@ -4,7 +4,7 @@ Junior web developer Intern @ NanLogical Consultancy Pvt Lmt.
 
 Front-end Developer | Full Stack Developer | Computer Science Engineer 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF5dmh6YmFzMm40MXIzb3Awc296dTBkZnZtMGQ2ODdteTVpYnlsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-- 🔭 Here's my [portfolio](file:///D:/Dream/Bootstrap/Portfolio-main/index.html)                                                 
+- 🔭 Here's my [portfolio](https://jayasriar.github.io/Portfolio/)                                                 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with Placements in FAANG
