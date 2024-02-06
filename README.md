@@ -11,7 +11,7 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 - 💬 Ask me about MERN, Python, Web development
 - 📫 How to reach me :
   [<img height=50 width=50 src="https://github.com/JayasriAR/JayasriAR/assets/109610628/9fc53680-8298-4492-a483-69d78b29235f"/>](https://www.linkedin.com/in/jayasri-a-r/)
-  [<img height=50 width=50 src="https://icons8.com/icon/P7UIlhbpWzZm/gmail"/>](mailto:jayasrirangaramanujam@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here)
+  [<img height=50 width=50 src="https://github.com/JayasriAR/JayasriAR/assets/109610628/a9ce6263-b8d4-4c35-a44e-76d963368a6d"/>](mailto:jayasrirangaramanujam@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here)
   
 ### I Code in
  <img height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" /> <img height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" /> <img height="50" width="50" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" /><img height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/> <img height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif"/> 
