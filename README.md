@@ -10,6 +10,7 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about MERN, Python, Web development
 - 📫 How to reach me :
+  
   [<img height=50 width=50 src="https://github.com/JayasriAR/JayasriAR/assets/109610628/9fc53680-8298-4492-a483-69d78b29235f"/>](https://www.linkedin.com/in/jayasri-a-r/)
   [<img height=50 width=50 src="https://github.com/JayasriAR/JayasriAR/assets/109610628/a9ce6263-b8d4-4c35-a44e-76d963368a6d"/>](mailto:jayasrirangaramanujam@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here)
   
