@@ -7,7 +7,6 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 - <img height=20 width=20 src="https://github.com/JayasriAR/JayasriAR/assets/109610628/2425b863-e4af-4c81-acd6-5b0eb317e1d2"/> Here's my [Portfolio](https://jayasriar.github.io/Portfolio/)                                                 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on software development
-- 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about MERN, Python, Web development
 - 📫 How to reach me :
   
