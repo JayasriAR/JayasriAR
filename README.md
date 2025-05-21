@@ -1,9 +1,6 @@
 # **Jayasri A R**
 Junior Full Stack Developer
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF5dmh6YmFzMm40MXIzb3Awc296dTBkZnZtMGQ2ODdteTVpYnlsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
- <img height=20 width=20 src="https://github.com/JayasriAR/JayasriAR/assets/109610628/2425b863-e4af-4c81-acd6-5b0eb317e1d2"/> Here's my [Portfolio](https://jayasriar.github.io/Portfolio/)                                  
-
 - 🌱 Associate Consultant - App Dev @TonysHive
 - 💬 Ask me about MERN, Python, Web development, nest
 - 📫 How to reach me :  [<img height=30 width=30 src="https://github.com/JayasriAR/JayasriAR/assets/109610628/9fc53680-8298-4492-a483-69d78b29235f"/>](https://www.linkedin.com/in/jayasri-a-r/)
